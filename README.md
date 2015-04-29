@@ -17,6 +17,10 @@ To get started, just do the following:
 Happy coding!
 The Cloud9 IDE team
 
+Hey.. if you can see what i've written down here.. for your information:
+its my first project using github.. finally!
+Pfiuh!
+
 
 ## Support & Documentation
 
